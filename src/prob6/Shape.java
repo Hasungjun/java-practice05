@@ -1,0 +1,9 @@
+package prob6;
+
+public abstract class Shape {
+	
+	public abstract double  getArea(); // 넓이
+	public	abstract double  getPerimeter() ;
+
+
+}
